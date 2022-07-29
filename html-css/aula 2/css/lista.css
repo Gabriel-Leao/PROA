@@ -1,0 +1,15 @@
+.menu {
+    width: 100vw;
+    text-align: center;
+    background-color: black;
+}
+
+.menu li {
+    background-color: black;
+    float: left;
+    list-style: none;
+}
+.menu a {
+    color: white;
+    text-decoration: none;
+}
